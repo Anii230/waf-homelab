@@ -3,7 +3,7 @@
 ## Project Progress
 
 - [x] Lab environment
-- [ ] Docker
+- [x] Docker
 - [ ] OWASP Juice Shop
 - [ ] Baseline Attack Demonstration
 - [ ] Nginx Reverse Proxy
